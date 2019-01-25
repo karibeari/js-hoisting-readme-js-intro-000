@@ -19,7 +19,7 @@ function sayMyName() {
   var name = "Cricky";
   var name = "Kristin";
 
-  sayMy();
+  sayMy(name);
 
   function sayMy() {
     console.log(name);
